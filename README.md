@@ -1,37 +1,47 @@
-# Bird
+### # Bird
+
 
 #### 介绍
 DC-DC Power
+8~25V
+64*34mm
 
-#### 软件架构
-软件架构说明
+#### 功能
+1. 自锁电路 
+2. 电压检测/电池识别 
+3. 快冲输出 
+4. 降压输出 
+5. 过放保护 
+6. 过流保护 
+7. 过温保护 
+8. 通讯设置 
 
 
-#### 安装教程
+#### 软件
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  MDK
+2.  AD
+3.  STC-ISP
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+有手就行：
 
-#### 参与贡献
+Cmd
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. {Bird-on}		开启
+1. {Bird-off}		关闭
+1. 
+1. {Bird:A}			显示电流数据
+1. {Bird:V}			显示电压数据
+1. {Bird:T}			显示温度数据
+1. {Bird:C}			显示循环数据
 
 
-#### 特技
+#### Made by
+    [输入链接说明](https://gitee.com/Swiper_witty)
+    [输入链接说明](https://space.bilibili.com/102898291)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### END
+
+给个三连 :point_up: 
