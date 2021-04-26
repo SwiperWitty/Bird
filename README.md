@@ -39,9 +39,7 @@ Cmd
 
 
 #### Made by
-    [git](https://gitee.com/Swiper_witty)
-    [bilibili](https://space.bilibili.com/102898291)
-
+[git](http://gitee.com/Swiper_witty)
 #### END
 
 给个三连 :point_up: 
