@@ -5,6 +5,9 @@
 DC-DC Power
 8~25V
 64*34mm
+
+[视频详解](https://www.bilibili.com/video/BV1XU4y1b7m1#reply4472232643)
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0426/202740_1b146235_7821111.jpeg "Bird.jpg")
 
 #### 功能
