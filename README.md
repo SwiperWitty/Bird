@@ -5,6 +5,7 @@
 DC-DC Power
 8~25V
 64*34mm
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0426/202740_1b146235_7821111.jpeg "Bird.jpg")
 
 #### 功能
 1. 自锁电路 
