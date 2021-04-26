@@ -39,8 +39,8 @@ Cmd
 
 
 #### Made by
-    [输入链接说明](https://gitee.com/Swiper_witty)
-    [输入链接说明](https://space.bilibili.com/102898291)
+    [git](https://gitee.com/Swiper_witty)
+    [bilibili](https://space.bilibili.com/102898291)
 
 #### END
 
