@@ -37,6 +37,7 @@ Cmd
 1. {Bird:V}			显示电压数据
 1. {Bird:T}			显示温度数据
 1. {Bird:C}			显示循环数据
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0426/202924_431db90c_7821111.png "9600.png")
 
 
 #### Made by
