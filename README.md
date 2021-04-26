@@ -40,6 +40,8 @@ Cmd
 
 #### Made by
 [git](http://gitee.com/Swiper_witty)
+
+[Bilibili](http://space.bilibili.com/102898291)
 #### END
 
 给个三连 :point_up: 
