@@ -35,7 +35,7 @@ Cmd
 
 1. {Bird-on}		开启
 1. {Bird-off}		关闭
-1. 
+
 1. {Bird:A}			显示电流数据
 1. {Bird:V}			显示电压数据
 1. {Bird:T}			显示温度数据
